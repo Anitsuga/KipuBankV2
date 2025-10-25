@@ -43,7 +43,7 @@ Este proyecto forma parte del **examen final del Módulo 3 - Desarrollo Web3**, 
 | Parámetro | Descripción | Ejemplo (Sepolia) |
 |------------|--------------|------------------|
 | `_owner` | Dirección del propietario | `0xd...` |
-| `_usdc` | Contrato USDC testnet | `0x07865c6E87B9F70255377e024ace6630C1Eaa37F` |
+| `_usdc` | Contrato USDC testnet | `0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238` |
 | `_ethUsdFeed` | Chainlink ETH/USD Feed | `0x694AA1769357215DE4FAC081bf1f309aDC325306` |
 | `_bankCapUSD6` | Límite global (6 decimales) | `1000000000000` → 1.000.000 USD |
 | `_withdrawLimitUSD6` | Límite de retiro por transacción | `100000000` → 100 USD |
